@@ -10,6 +10,9 @@ int main(){
     cout << "I'm using git!!" << endl;
 
     cout << x << "plus" << y << " is " << x+y << endl;
+    cout << x << " times " << y " is " << x*y << endl;
+
+
 
     return 0;
 }
